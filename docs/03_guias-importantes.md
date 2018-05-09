@@ -6,7 +6,9 @@
 2. Syllabus
 3. Glossário de Termos
 
-[Todos os downloads referentes aos itens acima, estão disponível em:](http://bstqb.org.br/node/197)
+[Clique aqui para acessar todos os downloads referentes aos itens acima](http://bstqb.org.br/node/197)
+
+
 
 
 

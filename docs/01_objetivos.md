@@ -20,7 +20,9 @@
 
 10. Prover o reconhecimento internacional de testadores e desta qualificação junto a participação de muitos países.
 
-[Mais detalhes sobre o BSTQB, clique aqui](http://bstqb.org.br/)
+[Cliqe aqui para Mais detalhes sobre o BSTQB](http://bstqb.org.br/)
+
+
 
 
 
