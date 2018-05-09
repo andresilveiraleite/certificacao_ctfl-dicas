@@ -6,6 +6,6 @@
 
 3. [Guias importantes de estudo para a certificação CTFL](docs/03_guias-importantes.md)
 
-4. [Dicas infáliveis para VENCER e CONSEGUIR a DESEJADA Certificação](04_docs/vencer-dicas.md)
+4. [Dicas infáliveis para VENCER e CONSEGUIR a DESEJADA Certificação](docs/04_vencer-dicas.md)
 
 5. [E agora, vamos ter coragem e se inscrever?](docs/05_inscricao.md)
